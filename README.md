@@ -7,11 +7,11 @@
 
 لیست‌های خوب زیر را هم ببینید:
 
-[github.com/mohebifar/made-in-iran](https://github.com/mohebifar/made-in-iran)  
-[github.com/fffaraz/awesome-persian](https://github.com/fffaraz/awesome-persian)  
-[github.com/mhbashari/awesome-persian-nlp-ir](https://github.com/mhbashari/awesome-persian-nlp-ir)  
-[github.com/Hameds/APIs-made-in-Iran](https://github.com/Hameds/APIs-made-in-Iran)  
-[github.com/Ashkan-rmk/awesome-persian-podcasts](https://github.com/Ashkan-rmk/awesome-persian-podcasts)
+- [x] [github.com/mohebifar/made-in-iran](https://github.com/mohebifar/made-in-iran)  
+- [x] [github.com/fffaraz/awesome-persian](https://github.com/fffaraz/awesome-persian)  
+- [x] [github.com/mhbashari/awesome-persian-nlp-ir](https://github.com/mhbashari/awesome-persian-nlp-ir)  
+- [x] [github.com/Hameds/APIs-made-in-Iran](https://github.com/Hameds/APIs-made-in-Iran)  
+- [x] [github.com/Ashkan-rmk/awesome-persian-podcasts](https://github.com/Ashkan-rmk/awesome-persian-podcasts)
 
 
 * [لینک‌های ایرانی توسعه و طراحی](#لینکهای-ایرانی-توسعه-و-طراحی)
@@ -298,9 +298,10 @@
 ## سرویس و ابزار
 * [FOD (Freedom of Developers) - پراکسی سرور رایگان برای دور زدن تحریم سایت‌های مرتبط با توسعه نرم‌افزار](https://github.com/backtory/fod)
 * [Shecan شکن - سرویس رایگان دور زدن تحریم‌های اینترنتی صرفاً با تغییر سرور دی‌ان‌اس](https://shecan.ir/)
-- [Aparat Downloader - دانلود فیلم‌های فیلیمو ](https://github.com/NabiKAZ/filimo-downloader)
-- [Namava Downloader - دانلود فیلم‌های نماوا](https://github.com/NabiKAZ/namava-downloader)
-- [Maktabkhoneh DownloadLink Crawler - کراولر سایت مکتب خونه](https://github.com/yazdipour/maktabkhoneh-crawler)
+* [Aparat Downloader - دانلود فیلم‌های فیلیمو ](https://github.com/NabiKAZ/filimo-downloader)
+* [Namava Downloader - دانلود فیلم‌های نماوا](https://github.com/NabiKAZ/namava-downloader)
+* [Maktabkhoneh DownloadLink Crawler - کراولر سایت مکتب خونه](https://github.com/yazdipour/maktabkhoneh-crawler)
+* [فونت آرا، افزونه‌ای رایگان و متن‌باز برای بهبود فونت فارسی در تمام وب](https://mimalef70.github.io/fontara/)
 
 ## سایر
 
