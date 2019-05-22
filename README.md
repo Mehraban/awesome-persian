@@ -301,6 +301,7 @@
 - [Aparat Downloader - دانلود فیلم‌های فیلیمو ](https://github.com/NabiKAZ/filimo-downloader)
 - [Namava Downloader - دانلود فیلم‌های نماوا](https://github.com/NabiKAZ/namava-downloader)
 - [Maktabkhoneh DownloadLink Crawler - کراولر سایت مکتب خونه](https://github.com/yazdipour/maktabkhoneh-crawler)
+- [فونت آرا، افزونه‌ای رایگان و متن‌باز برای بهبود فونت فارسی در تمام وب](https://mimalef70.github.io/fontara/)
 
 ## سایر
 
